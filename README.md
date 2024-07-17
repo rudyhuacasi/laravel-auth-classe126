@@ -1,7 +1,7 @@
 # Laravel Auth Template
 
 ```
-composer create-project laravel/laravel nomeprogetto
+composer create-project laravel/laravel:^10.0 nomeprogetto
 ```
 
 # Installazione breeze
